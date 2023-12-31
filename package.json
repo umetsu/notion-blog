@@ -1,0 +1,11 @@
+{
+  "name": "notion-blog",
+  "version": "0.0.1",
+  "license": "ISC",
+  "workspaces": [
+    "packages/api"
+  ],
+  "scripts": {
+    "test": "test"
+  }
+}
