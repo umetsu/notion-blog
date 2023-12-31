@@ -6,6 +6,9 @@
     "packages/api"
   ],
   "scripts": {
-    "test": "test"
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "3.1.1"
   }
 }
